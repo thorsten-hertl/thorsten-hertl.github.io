@@ -115,6 +115,9 @@ Every student with a mild background in topology should be able to attend this s
   
 <h2> List of Talks </h2>
     <p>
+
+Coming soon!
+<!-- 
 <h4> University of Freiburg </h4>
 
 <ul>
@@ -125,23 +128,22 @@ Every student with a mild background in topology should be able to attend this s
 <li> <a href="https://home.mathematik.uni-freiburg.de/geometrie/lehre/ws2022/Ana3/">Analysis III</a> WS 2022/2023 (Teaching Assistant)
 </li>
 </ul>
-
-<h4> University of Augsburg </h4>
-
-<ul>
-<li> <a href="https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=573fa3ddb6b9e0453e9d4196fe02bb98">Seminar on simplicial sets</a> (joint with <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/diff/team/wolfgang-steimle/" rel="noopener" target="_blank">W. Steimle</a>) SS 2020
-</li>
-</ul>
+-->
 
 
-<h4> University of G&ouml;ttingen </h4> 
+<h2> References </h2>
 
 <ul>
-<li> Ordinary Differential Equations SS 2022 (Teaching Assistant)
+<li> Alexander Berglund, <a href="https://staff.math.su.se/alexb/rathom2.pdf">Rational Homotopy Theory</a>    Lecture notes, concise but thorough, probably the main source for the first part.  
 </li>
-<li> <a href="https://www.uni-math.gwdg.de/schick/teach/APS20.html">Seminar on the Atiyah-Patodi-Singer Index Theorem</a> (joint with <a href="https://www.uni-math.gwdg.de/schick/"> T. Schick</a>) WS 2020 
+<li> Felix, Halperin, Thomas, <a href="https://zbmath.org/0961.55002">Rational Homotopy Theory</a>  One of the standard sources of the field. Very thorough.
+</li>  
+<li> Felix, Oprea, Tanré, <a href="https://zbmath.org/1149.53002"> Algebraic Models in Geometry</a>  Good source for the second part. 
+     As the title suggest, it contains many application of RHT to geometry 
 </li>
+<li> more reference coming soon.... </li>
 </ul>
+
  
 
 </body></html>
